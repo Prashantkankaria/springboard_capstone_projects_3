@@ -2,7 +2,9 @@
 title: "Project_Proposal_R_Markdown"
 author: "Prashant Kankaria"
 date: "March 21, 2018"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 #_Title:_
